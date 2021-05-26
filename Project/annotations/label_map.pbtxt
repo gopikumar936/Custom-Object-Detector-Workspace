@@ -1,9 +1,8 @@
 item {
     id: 1
-    name: 'cat'
+    name: 'bed'
 }
-
 item {
     id: 2
-    name: 'dog'
+    name: 'bench'
 }
